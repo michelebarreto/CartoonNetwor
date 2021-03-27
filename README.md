@@ -1,4 +1,11 @@
 # CartoonNetwor
-Coletânea de desenhos antigos preferidos
+<h1>Coletânea de desenhos antigos preferidos</h1>
 
-Usando HTML / CSS / JAVASCRIPT
+
+
+🛠 Tecnologias
+
+
+* HTML
+* CSS
+* JavaScript
